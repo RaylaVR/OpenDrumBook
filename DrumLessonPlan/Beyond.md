@@ -1,0 +1,3 @@
+# Beyond
+
+This is not for the feint of heart.  To be here is to strive to be one of the best in your instrument category, and at a certain point will simply involve refinements of established concepts.  The point of diminishing returns on effort is far behind.  Here, we will cover the full extent of Minimum Effort Theory and where and how it should be used.  We will strive to perfect our technique and sound quality, and sharpen our minds with the hardest thinking exercises drums has to offer.  At this point, you should have a very good understanding of what needs work which is why these sections can be taken in any order you see fit.

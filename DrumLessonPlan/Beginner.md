@@ -8,10 +8,6 @@ The Beginner Course is divided into two sections which each have a relevant exer
 
 > The Basics of Technique, Music Reading, and Subdivision
 
+In this Section, we will learn the absolute bear minimum of what it takes to play drums.  The focus will be on reading music and playing to a tempo, syncing your feet with your playing in a *marktime*, and understanding the 4 stroke types.
+
 ## Section II
-
-[Section I](Beginner%2015d3d739ecb947969cdc95a44453a29e/Section%20I%20ea8c3e95c6ff479994082e53ce36efe0.md)
-
-[Section II](Beginner%2015d3d739ecb947969cdc95a44453a29e/Section%20II%2032b0118fcf824f31bd2ad23225c27b1c.md)
-
-[Extras](Beginner%2015d3d739ecb947969cdc95a44453a29e/Extras%20a5b92d3907ff4ea9a5f38a2cf0843b69.md)

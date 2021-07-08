@@ -13,12 +13,17 @@
 ### What you NEED
 
 - Practice Pad and Sticks
+
 - Some form of communications device/internet access (basic smartphone)
+
 - A metronome (app or physical)
 
 - A folder for music
+
 - Consistent transportation
+
 - A whole lot of food and water
+
 - A good attitude!
 
 ### Other helpful tools

@@ -1,18 +1,23 @@
 \contentsline {part}{I\hspace {1em}Preliminary}{3}{}%
 \contentsline {chapter}{\numberline {1}Forward}{5}{}%
 \contentsline {chapter}{\numberline {2}Teacher's Usage Guide}{7}{}%
-\contentsline {chapter}{\numberline {3}Student Introduction}{9}{}%
-\contentsline {section}{\numberline {3.1}What is Marching Percussion?}{9}{}%
-\contentsline {section}{\numberline {3.2}The Benefits of Marching Percussion}{9}{}%
-\contentsline {section}{\numberline {3.3}Material Requirements}{9}{}%
-\contentsline {paragraph}{What you need}{9}{}%
-\contentsline {paragraph}{Other helpful tools}{9}{}%
-\contentsline {section}{\numberline {3.4}Teaching Methodology and Philosophy}{10}{}%
-\contentsline {section}{\numberline {3.5}Communications and Scheduling}{10}{}%
-\contentsline {section}{\numberline {3.6}Physical and Mental Requirements}{10}{}%
-\contentsline {section}{\numberline {3.7}Social Expextations and Culture}{10}{}%
-\contentsline {section}{\numberline {3.8}Get Inspired!}{10}{}%
-\contentsline {section}{\numberline {3.9}Student and Parental Agreements with the instructor}{10}{}%
-\contentsline {section}{\numberline {3.10}Grading}{10}{}%
-\contentsline {paragraph}{Breakdown}{10}{}%
-\contentsline {part}{II\hspace {1em}Beginner}{11}{}%
+\contentsline {chapter}{\numberline {3}Marching Technique}{9}{}%
+\contentsline {chapter}{\numberline {4}Useful Preliminary Documents}{11}{}%
+\contentsline {section}{\numberline {4.1}What is Marching Percussion?}{11}{}%
+\contentsline {section}{\numberline {4.2}The Benefits of Marching Percussion}{11}{}%
+\contentsline {section}{\numberline {4.3}Material Requirements}{11}{}%
+\contentsline {paragraph}{What you need}{11}{}%
+\contentsline {paragraph}{Other helpful tools}{11}{}%
+\contentsline {section}{\numberline {4.4}Teaching Methodology and Philosophy}{12}{}%
+\contentsline {section}{\numberline {4.5}Communications and Scheduling}{12}{}%
+\contentsline {section}{\numberline {4.6}Physical and Mental Requirements}{12}{}%
+\contentsline {section}{\numberline {4.7}Social Expextations and Culture}{12}{}%
+\contentsline {section}{\numberline {4.8}Get Inspired!}{12}{}%
+\contentsline {section}{\numberline {4.9}Student and Parental Agreements with the instructor}{12}{}%
+\contentsline {section}{\numberline {4.10}Grading}{12}{}%
+\contentsline {paragraph}{Breakdown}{12}{}%
+\contentsline {part}{II\hspace {1em}Beginner}{13}{}%
+\contentsline {chapter}{\numberline {5}Introduction and Overview}{15}{}%
+\contentsline {section}{\numberline {5.1}Introduction}{15}{}%
+\contentsline {chapter}{\numberline {6}Gotta Start Somewhere}{17}{}%
+\contentsline {paragraph}{The Basics of Technique, Music Reading, and Subdivision}{17}{}%

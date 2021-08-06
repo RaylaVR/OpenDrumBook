@@ -1,3 +1,0 @@
-# Section II
-
-# Flams

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.13)  6 AUG 2021 11:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.13)  6 AUG 2021 11:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -178,32 +178,44 @@ Chapter 2.
 
 ]
 Chapter 3.
+[9] [10
 
-Overfull \hbox (4.27368pt too wide) in paragraph at lines 47--48
+]
+Chapter 4.
+
+Overfull \hbox (4.27368pt too wide) in paragraph at lines 48--49
 []\OT1/cmr/m/n/12 Some form of com-mu-ni-ca-tions de-vice/internet ac-cess (ba-sic smart-phone) 
  []
 
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 83--86
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
 
  []
 
-[10] [11
+[12] [13
 
-] [12] (/Users/rayla/Documents/OpenDrumBook/OpenDrumBook.aux) ) 
+] [14]
+Chapter 5.
+[15
+
+] [16
+
+]
+Chapter 6.
+[17] (/Users/rayla/Documents/OpenDrumBook/OpenDrumBook.aux) ) 
 Here is how much of TeX's memory you used:
- 2388 strings out of 478994
- 32119 string characters out of 5858184
- 319825 words of memory out of 5000000
- 19868 multiletter control sequences out of 15000+600000
- 413488 words of font info for 65 fonts, out of 8000000 for 9000
+ 2390 strings out of 478994
+ 32140 string characters out of 5858184
+ 320825 words of memory out of 5000000
+ 19869 multiletter control sequences out of 15000+600000
+ 413835 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,6n,74p,478b,198s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /Users/rayla/Documents/OpenDrumBook/OpenDrumBook.pdf (13 pages, 68650 bytes).
+ 68i,6n,74p,514b,198s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on /Users/rayla/Documents/OpenDrumBook/OpenDrumBook.pdf (18 pages, 81782 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 87 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

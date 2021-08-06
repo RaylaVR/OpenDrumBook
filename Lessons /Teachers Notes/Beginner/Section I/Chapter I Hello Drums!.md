@@ -1,8 +1,8 @@
 # Chapter I: Hello Drums!
 
-## Introduction
+\section{Introduction}
 
-**TODO:**  This should introduce what marching drums are and what will be learned in this lesson.
+% This should introduce what marching drums are and what will be learned in this lesson.
 
 ## Marking Time and The Metronome
 

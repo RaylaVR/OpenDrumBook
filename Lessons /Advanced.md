@@ -1,3 +1,0 @@
-# Advanced
-
-This is where we get into the real gritty and challenging concepts that many players will never reach.  Things like hybrid rudiments, complex grids, and challenging thinking exercises that shift the way you think about drums.  This is a long section with brutal mechanics work that will make you question just how good your basics are.  Mastery of everything here should be the goal of any high school student looking to pursue marching band beyond what public education offers.

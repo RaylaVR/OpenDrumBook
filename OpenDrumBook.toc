@@ -36,4 +36,17 @@
 \contentsline {section}{\numberline {1.5}Section Exercise: Basic Timing Exercise}{22}{}%
 \contentsline {chapter}{\numberline {2}Section II: Brain Games}{23}{}%
 \contentsline {section}{\numberline {2.1}Introduction}{23}{}%
+\contentsline {section}{\numberline {2.2}Double Strokes}{24}{}%
+\contentsline {section}{\numberline {2.3}Dynamic Control}{24}{}%
+\contentsline {section}{\numberline {2.4}Subdivision III: 9s, 5s, and Oddities}{24}{}%
+\contentsline {section}{\numberline {2.5}Grids I: The 16th Note Grid}{24}{}%
+\contentsline {section}{\numberline {2.6}Time Signatures}{24}{}%
+\contentsline {section}{\numberline {2.7}Grids II: Triplet Grids}{24}{}%
+\contentsline {section}{\numberline {2.8}Relevant Exercise}{24}{}%
 \contentsline {part}{III\hspace {1em}Intermediate}{25}{}%
+\contentsline {section}{\numberline {2.9}Introduction}{27}{}%
+\contentsline {chapter}{\numberline {3}Diddle Strokes}{29}{}%
+\contentsline {chapter}{\numberline {4}Flams}{31}{}%
+\contentsline {chapter}{\numberline {5}Basic Rudiments}{33}{}%
+\contentsline {part}{IV\hspace {1em}Advanced}{35}{}%
+\contentsline {part}{V\hspace {1em}Beyond}{39}{}%

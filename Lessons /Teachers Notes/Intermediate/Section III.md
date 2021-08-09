@@ -1,3 +1,0 @@
-# Section III
-
-# Basic Rudiments

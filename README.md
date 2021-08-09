@@ -51,5 +51,3 @@ Release 1.0 (Ready for anyone to use!)
 - [ ] Additional Free Shows, Pep Tunes, Cadences, and Exercises
 
 - [ ] Tuning Guides and Hardware Training for many different brands of instrument
-
-- [ ] Collaboration with DCI Corps and Universities to create lessons to help prospective members prepare.

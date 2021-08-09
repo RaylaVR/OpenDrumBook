@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.13)  9 AUG 2021 14:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.13)  9 AUG 2021 14:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -188,48 +188,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--81
 
 [13] [14] [15
 
-] [16]
+] [16] [17] [18
+
+]
 Chapter 1.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17
-
-] [18]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [19]
+[19] [20]
 Underfull \vbox (badness 2065) has occurred while \output is active []
 
- [20]
+ [21]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21] [22]
+ [22] [23] [24
+
+]
 Chapter 2.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23
+ [25] [26] [27
 
-] [24] [25
-
-] [26] [27] [28
+] [28] [29] [30
 
 ]
 Chapter 3.
-[29] [30
-
-]
-Chapter 4.
 [31] [32
 
 ]
-Chapter 5.
+Chapter 4.
 [33] [34
 
-] [35] [36] [37] [38
+]
+Chapter 5.
+[35] [36
 
-] [39] [40] [41] (/Users/rayla/Documents/OpenDrumBook/OpenDrumBook.aux) ) 
+] [37] [38] [39] [40
+
+] [41] [42] [43] (/Users/rayla/Documents/OpenDrumBook/OpenDrumBook.aux) ) 
 Here is how much of TeX's memory you used:
  2400 strings out of 478994
  32459 string characters out of 5858184
@@ -239,10 +233,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  68i,6n,74p,686b,198s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /Users/rayla/Documents/OpenDrumBook/OpenDrumBook.pdf (42 pages, 101542 bytes).
+Output written on /Users/rayla/Documents/OpenDrumBook/OpenDrumBook.pdf (44 pages, 101960 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
+ 173 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

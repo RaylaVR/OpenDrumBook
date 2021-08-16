@@ -5,6 +5,7 @@
 \usepackage{amssymb}
 \usepackage{graphicx}
 \usepackage{indentfirst}
+
 \title{Open Drum Book}
 \author{RaylaVR}
 
@@ -14,6 +15,7 @@
 \newpage
 \pagenumbering{arabic}
 \tableofcontents
+
 
 
 
@@ -33,10 +35,12 @@
 % other avalible resources. It talks about teaching philosophy, best practices
 % common teaching mistakes and other essential information for teaching out of this book.
 
+\chapter*{Contribution and Modification Guide}
+
+
 \chapter*{Marching Technique}
 
 \chapter*{Useful Preliminary Documents}
-\newpage
 
 \section*{Syllabus Example}
 \subsection*{What is Marching Percussion?}
@@ -45,21 +49,15 @@
 
 \paragraph{What you need}
 \begin{itemize}
-    \item Practice Pad and Sticks
+    \item Practice pad and sticks
     \item Some form of communications device/internet access (basic smartphone)
     \item A metronome
     \item A folder/binder for music
     \item Consistent transportation
+    \item Tennis shoes
+    \item Hearing protection
     \item A whole lot of food and water
     \item A good attitude!
-\end{itemize}
-
-\paragraph{Other helpful tools}
-\begin{itemize}
-    \item A Nice Practice Pad
-    \item A Tenor Pad (for tenor players)
-    \item Heavy Practice Sticks
-    \item Music stand/drum stand
 \end{itemize}
 
 \subsection*{Teaching Methodology and Philosophy}
@@ -82,6 +80,7 @@ Music Tests: 20\%\\
 
 \section*{Responsibility Agreement}
 
+\section*{Practice Materials Recommendations}
 
 
 
@@ -131,7 +130,7 @@ Not that hard right?  This time we will try again, however part way through, we'
 
 % Have your students clap along to the click track then without pausing it mute the metronome.  After you feel that tempo has strayed sufficiently, unmute the metronome and let your students hear how far off they were.
 
-Not so easy now is it?  This is why we practice with a metronome, to teach ourselves how to maintain a tempo.  This is also why we mark time!  It will act as our metronome on the marching feild as it is almost always in sync with our music's written tempo.  Lets try marking time to the metronome!
+Not so easy is it?  This is why we practice with a metronome, to teach ourselves how to maintain a tempo.  This is also why we mark time!  It will act as our metronome on the marching feild as it is almost always in sync with our music's written tempo.  Lets try marking time to the metronome!
 
 % This is where you can optionally teach whatever your desired mark time is.  In this guide, we will use a very simple flat-footed approach.  This approach was chosen for its ease of learning, clear definition of time, and lack of obsqurity when a student makes an error.
 
@@ -140,33 +139,60 @@ The technique to mark time is very simple, but must be defined so that we all do
 \subsection{Musical Prerequisites}
 % TODO: Teaches the basics of music notation and presents a few examples of how one would go about reading music.
 
-This simple act of playing to a tempo is the very core of drums. Now that we have established Mark Time, we can start applying it to some real music.  Figure 1 shows is going to be our first peice of music.  It is very short, one measure long with only one note.  Anyone who knows how to read music would chuckle at this but we can learn a whole lot about marching percussion by defining this.
+\paragraph{Reading Music} 
+This simple act of playing to a tempo is the very core of drums. Now that we have established Mark Time, we can start applying it to some real music. Figure 1 shows is going to be our first peice of music. It is very short, one measure long with only one note. Anyone who knows how to read music would chuckle at this but we can learn a whole lot about marching percussion by defining this.
 
-Take a look at Figure 1a. 
+\musicxmlfile{test.musicxml}
+
+There are a bunch of symbols here that each define a part of how we read music. First is the \textit{staff}. The \textit{staff} is the 5 lines that stretch across horizontal.
 
 \subsection{Playing The Drum For The First Time}
 
-% TODO: Goes over the basic mechanics of a drum stroke, the grip, and the axies of motion. Wrist-arm-arm-wrist, up-down, repetitive strokes. Do a counted number of strokes then stop.
+With our new understanding of time and notation, we can now learn how to use our instrument. Get to your drum and pick up your sticks. One thing that separates percussion from the other instruments is it's lack of tonality, as in it has a finite number of possible notes that can be played. Tonal musicians will spend their careers practicing so that they can be perfectly in tune no matter what note they play. We on the other hand, only need to practice one. While it may seem impossible to screw up tone quality on an instrument that only has one note, the reality is that our single note is very VERY hard to play correctly. In order to play our note correctly, every part of your motion must be accurate.
+
+The stroke is very similar to a motion that most people know and as such we can use it as an analogy, bouncing a basketball. When dribbleing the ball there are two actions at play, the addition of energy to the ball and the control of its rebound. Likewise our stroke has 2 such motions, giving energy to the stick and controling its rebound. To execute this motion, we need to learn how to hold the stick as well as how to move it.
+
+\paragraph{Grab the stick} Your finger placement is broken down into two distinct functions, the \textit{fulcrum} and the \textit{support}. The \textit{fulcrum} is the point at which the stick will rotate as it rebounds off of the head. We control this point of rebound at the \textit{fulcrum} by curling our index finger around the stick and placing the pad of our thumb on the opposite side. The grip at the \textit{fulcrum} not only serves to define the stick's rotation, but allow us to partially control how much the stick rebounds off of the drum. The \textit{support} acts as the counter weight on the lever created by the \textit{fulcrum}, one which you can use to control the lever action. Simply curl your back fingers around the stick similar to your index finger. You should be holding the stick with even pressure across your fingers slightly biased on the fulcrum. The amount of pressure you're looking for should feel natural and relaxed. Like how people hold most objects, grab it tight enough to not drop it and no more.
+
+\paragraph{Bass Drum Technique} Bass drum is played with slight modification on the \textit{German  Grip}, as such we will learn both so that prospective bass drum players have a technique they can use when playing on a flat drum for practice. Move up to the bass drum with the mallets in the grip we just learned about, arms hanging at your sides. With your arms hanging, your wrist in its most relaxed state, you should notice that the stick has an angle to it. This angle is where we want to keep our wrist. 
+% Todo Image
+Once in that position bend your elbows and lift your arms so that your forearms are parallel with the ground. Your elbow position will vary depending on the size of bass drum you are playing. The smaller drums will place your elbows slightly behind your torso and the bigger drums will have your elbows inline with or in front of your torso. Adjust the height of the drum such that you can hit the center of the drum head with this wrist angle and arm position.
+%ToDo Image
+This is the grip that we will use for bass drum. \textit{German Grip} is rooted in similar definitions and it is what we will use to practice our bass technique on a flat drum. To get there from your bass drum grip, simply turn your wrists 90 degrees so that the sticks are hovering over the flat drum.
+%ToDo Image
+
+\paragraph{Tenor Drum Technique} Tenor drums necesitate a grip that makes movement across the drums easy and fluid, with just as much control as the \textit{German Grip} provides. This grip holds the stick identically, however rotates about 45 degrees back towards vertical. This pushes the elbows back in towards the torso and slightly changes the way that the stick motion is made.
+%ToDo Image
+
+\paragraph{Snare Drum Technique} Snare drum technique is interesting in that the sticks do not have the same grip on both hands. While in a ochestra setting the snare drum is usually played with a match grip such as the \textit{German Grip}, marching snare specifically has its grip rooted in history. Snare drums of old, used in the kind of wars fought with straight rows and files of soldiers, were held on to their players with a strap and as such were at a noticable angle. The \textit{Traditional Grip} was used to make it easier to play on the angled drum. Even with flat drums and more sophisticated harness systems, we still use this grip today.
+
+Holding your left hand open with all 5 fingers spread, place the stick in between your thumb and index finger where the fulcrum would be on a matched grip. Squeeze so that you can hold the stick using just this point of contact. With the stick in place, wrap your fingers around as if to make the "OK" gesture. Rather than touching your index and thumb pads together, place the pad of your thumb on the side of your index finger leaving the tip of the index finger to contact the stick. This creates the \textit{fulcrum}.
+%ToDo Image
+
+The Remaining 3 fingers consist of the \textit{support}. Place your middle finger above the stick followed by the ring and pinky below. The ring and pinky fingers should stay together one on top of the other. Place the ring and pinky fingers so that the side of the ring finger's nail makes contact with the stick so that its weight can be supported. The middle finger should rest on the opposite side of these 2 fingers using the outside edge of the pad of that finger. The palm of your hand should form a sort of bowl that is tilted and pouring out its contents.
+%ToDo Image
+
+As we progress into the motion and rotation, note that the left hand will have a unique axis of wrist rotation. While this is by far the most different grip, the fundementals of motion and how they affect the stick remain the same. Think about the way that it applies.
+
+\paragraph{The Full Stroke} We are grabbing the stick corrently for our drums, and our hands are out and ready to play. Now, finally, we can learn how to hit the drum properly using the grip and technique we learned. If you'll recall, there are 2 fundemental actions of a drum stroke; the addition of energy to the stick and the control of its rebound. 
+
+Take a look at your grip, remember that the wrist position side to side is at it's resting angle. While it is flat with the forearm, it is likewise at it's vertical rest position. The vertical wrist muscles are MUCH stronger than the horizontal ones. That muscle is the primary muscle that we use in a drum stroke because it provides control. However the wrist muscle alone isn't enough. To get good sound we need some power, and where else to get it but from the bicep. Moving the entire forearm and the stick it's holding requires a big, inprecice muscle. The importance of all these control points is to help manage the energy from the arm. Even so, the arm only makes up a small percentage of the range of motion in the stick. The wrist and arm should be putting the same amount of energy into the stick, however the arm moves much less as such a strong muscle only needs a little bit of motion to go a long way.
+
+We will revisit this concept in much more detail when discussing Diddle Strokes in the Intermediate Section, but for now the key takeaway is that we utilize the our wrist and arm to give the stick energy.
+
+Let's get a feel for rebound. Open up your support fingers so that you are holding the stick \textit{only by its fulcrum}. 
+
+
+
 
 \subsection{8-8-16}
 
 % TODO: Have them read and play 8-8-16, add the feet and make sure everyone is lining it up.
 
-\subsection{8th Note Reading Exercises}
-
-% TODO: 8th note reading/timing exercises while marking time
-
-\subsection{Quiz:}
-
-% Quiz them on reading skill and 8-8-16 looking at their technique to make sure that they are using about the right amount of arm/wrist, aren't massivly over/undersqueezing the stick, and using the fulcrum to bounce the stroke. Don't be overly critical with technique as it will be improved upon quickly over the next few lessons.
-
-
 
 
 
 \section{The 4 Stroke Types}
-
-% Note: Once they are comfortable with marking time from the previous lesson, you should not teach new excersises/concepts without it for the beginner level. It is critical that students develop their sense of time with their feet. If they are struggling with a new concept and the mark time, break down the music into even individual notes with a mark time. Only drop mark time if you are very confident that the whole group could add it back in later.
 
 \subsection{Introduction}
 
@@ -179,8 +205,9 @@ Take a look at Figure 1a.
 \subsection{2 Accents, 2 Taps}
 % 2 accents then 2 taps sequentially
 
-\subsection{Apply Your Learning}
-% Put accents and taps on to previous 8-8-16 exercises and other eighth note timing
+\subsection{8th Note Reading Exercises}
+
+% TODO: 8th note reading/timing exercises while marking time
 
 \section{Subdivisions I: 16th Notes}
 
